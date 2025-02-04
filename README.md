@@ -30,7 +30,7 @@ O código implementa um semáforo com três estados:
 Após o ciclo completo, o semáforo retorna ao estado vermelho e repete o processo indefinidamente.
 
 # Link do vídeo  
-
-
+https://drive.google.com/file/d/1r9Mm0cO16jNp0qrYbKyvOpa_r3O0gA9J/view?usp=sharing
+  
 # Desenvolvido por
 Priscila Pereira Suzat de Carvalho
